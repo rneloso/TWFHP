@@ -5,6 +5,7 @@ html {
   margin: 0 auto;
   padding: 0;
   display: table;
+  background-image: url("bg.gif");
 }
 body {
   font-family: 'Open Sans', sans-serif;
@@ -18,13 +19,15 @@ body {
 }
 .title {
   font-family: 'Lato', sans-serif;
+  color: #F8F8FF;
   font-size: 2em;
   letter-spacing: .05em;
   margin: .1em 0 .3em;
 }
 #explanation {
   font-size: 1em;
-  color: #888888;
+  font-weight: lighter;;
+  color: #A9A9A9;
   letter-spacing: .1em;
   max-width: 350px;
   margin: .5em 0 1em;
