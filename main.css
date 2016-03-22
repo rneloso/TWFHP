@@ -25,14 +25,13 @@ body {
   margin: .1em 0 .3em;
 }
 h1, h2 {
+  font-size: 1.95em;
   display: inline;
 }
 h1 {
-  font-size: 1.95em;
   font-weight: 300;
 }
 h2 {
-  font-size: 2em;
   font-weight: 700;
 }
 #explanation {
